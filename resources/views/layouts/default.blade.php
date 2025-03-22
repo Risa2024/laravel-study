@@ -44,7 +44,7 @@
 </head>
 <body>
     <header>
-        <h1>Laravel9学習</h1>
+        <h1>Laravel学習</h1>
         <nav>
             <ul>
                 <li><a href="/">トップ</a></li>
