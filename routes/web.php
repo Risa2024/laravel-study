@@ -15,3 +15,5 @@ Route::get('/hello', fn() => view('hello',[
     'name' => '山田太郎',
     'course' => 'Laravel',
 ]));
+Route::get('/',fn() => view(view:'index'));
+Route::get('/curriculum',fn() => view(view:'curriculum'));
